@@ -1,11 +1,12 @@
-### Hi there 👋
+<p align="center"><img src="https://github.com/lindyem/lindyem/blob/master/logoxsm.png" /></p>
+## Hi there 👋
 
-#### I'm Lindy! I've currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about creating and discussing new project ideas!
+#### I'm Lindy! I'm currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about discussing and creating new project ideas!
 
 
 
-<p align="center"> <a href="http://www.lindymerwin.com/"><img src="https://github.com/lindyem/lindyem/blob/master/logoxsm.png" /></a> </p>
-<p align="center"> For my professional portfolio click above! </p>
+<p align="center"> <a href="http://www.lindymerwin.com/">Click for my Professional Portfolio!></a> </p>
+
 
 
 #### 🌱 I’m currently expanding my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD and Photoshop).
