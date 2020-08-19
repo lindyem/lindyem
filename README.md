@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 #### I'm Lindy! I've currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about creating and discussing new project ideas!
+Inline-style: 
+![alt text](https://github.com/lindyem/lindyem/blob/master/logo.png?raw=true "Logo")
+
 <p align="center"> <a href="http://www.lindymerwin.com/">Professional Portfolio</a> </p>
 
 ![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem&show_icons=true&theme=radical)
