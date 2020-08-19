@@ -3,8 +3,10 @@
 #### I'm Lindy! I've currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about creating and discussing new project ideas!
 <p align="center"> <a href="http://www.lindymerwin.com/">Professional Portfolio</a> </p>
 
-[![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem)](https://github.com/lindyem/github-readme-stats&show_icons=true&theme=radical)
-#### 🌱 I’m currently explaning my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD and Photoshop).
+[![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem)](https://github.com/lindyem/github-readme-stats&show_icons=true&theme=dark)
+
+
+#### 🌱 I’m currently expanding my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD and Photoshop).
 
 #### 🔭 I’m currently working on
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
