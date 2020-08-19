@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 #### I'm Lindy! I've currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about creating and discussing new project ideas!
-<div algin="center"> ##### [Professional Portfolio](http://www.lindymerwin.com/ "Lindy Elizabeth Merwin")</div>
-<div algin="center">
-[![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem&theme=dark&show_icons=true)](https://github.com/lindyem/github-readme-stats)</div>
+<p align="center"> ##### [Professional Portfolio](http://www.lindymerwin.com/ "Lindy Elizabeth Merwin")</p>
+[![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem&theme=dark&show_icons=true)](https://github.com/lindyem/github-readme-stats)
 
 
 #### 🌱 I’m currently explaning my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD and Photoshop).
