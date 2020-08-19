@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> <a href="http://www.lindymerwin.com/">Click for my Professional Portfolio!></a> </p>
+<p align="center"> <a href="http://www.lindymerwin.com/">Click for my Professional Portfolio!</a> </p>
 
 
 
