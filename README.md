@@ -4,8 +4,8 @@
 
 
 
-<p align="center"> <a href="http://www.lindymerwin.com/">Professional Portfolio</a> </p>
-<div style="text-align:center"><img src="https://github.com/lindyem/lindyem/blob/master/logosm.png" /></div> .
+<p align="center"> <a href="http://www.lindymerwin.com/"><img src="https://github.com/lindyem/lindyem/blob/master/logoxsm.png" /></a> </p>
+
 
 ![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem&show_icons=true&theme=radical)
 
