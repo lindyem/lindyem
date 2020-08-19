@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/lindyem/lindyem/blob/master/logoxsm.png" /></p>
+
 ## Hi there 👋
 
 #### I'm Lindy! I'm currently enrolled in a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about discussing and creating new project ideas!
