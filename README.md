@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**lindyem/lindyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Lindy! I've currently finished fulltime Full Stack Development Bootcamp from UCSD. I am passionate about creating and discussing new project ideas!
+##### [Professional Portfolio](http://www.lindymerwin.com/ "Lindy Elizabeth Merwin")
+
+##### 🔭 I’m currently working on ...
+
 
 Here are some ideas to get you started:
 
