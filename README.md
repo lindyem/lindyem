@@ -17,7 +17,8 @@
 * [Bee's Imaging Group](http://beesimaginggroup.com/ "BIG") - Freelance Wordpress project for client in the medical field.
 * [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
 
-
+#### 🎓 I'm currently practicing 
+* [React Instagram Clone](https://github.com/lindyem/instagram-clone-react "instagram clone") - React project that uses Firebase.
 
 #### ⚡ Fun fact: I'm Bilingual (English/Spanish). I was a teacher for 12 years! Recently moved to San Diego after 10 years living in Mexico. 
 #### Check my Stats!
