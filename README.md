@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-#### I'm Lindy! I currently graduated from a fulltime Full Stack Development Bootcamp from UCSD. I am passionate about discussing and creating new project ideas!
+#### I'm Lindy! I currently graduated from a fulltime Full-Stack Development Bootcamp from UCSD. I am passionate about discussing and creating new project ideas!
 
 
 
