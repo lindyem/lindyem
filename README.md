@@ -16,7 +16,7 @@
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
 * [Bee's Imaging Group](http://beesimaginggroup.com/ "BIG") - Freelance Wordpress project for client in the medical field.
 * [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
-* [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project uses Firebase database and auth.
+* [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and  authentication.
 
 #### 🎓 I'm currently practicing 
 * 
