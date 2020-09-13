@@ -26,6 +26,6 @@
 
 ![Lindy's github stats](https://github-readme-stats.vercel.app/api?username=lindyem&show_icons=true&theme=radical)
 
-#### 🔖 Discover my [Resume](https://drive.google.com/file/d/1Rr4BO7wTTbGh70ize4oGpNxjOITNzyq-/view?usp=sharing "Resume") 📫 Contact me @ [LinkedIn](https://www.linkedin.com/in/lindy-merwin/ "LinkedIn") Or @ lindy.merwin@gmail.com
+#### 🔖 Discover my [Resume](https://docs.google.com/document/d/1Tzf9FZa4JWgUikYTP278iqlGoa6dtyHebhLgcfCCts8/edit?usp=sharing "Resume") 📫 Contact me @ [LinkedIn](https://www.linkedin.com/in/lindy-merwin/ "LinkedIn") Or @ lindy.merwin@gmail.com
 
 
