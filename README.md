@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/lindyem/lindyem/blob/master/logoxsm.png" /></p>
+<p align="center"><img src="https://github.com/lindyem/lindyem/blob/master/LEM.png" /></p>
 
 ## Hi there 👋
 
