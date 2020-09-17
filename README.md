@@ -10,7 +10,7 @@
 
 
 
-#### 🌱 I’m currently expanding my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD and Photoshop).
+#### 🌱 I’m currently expanding my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD, Photoshop and Illustrator).
 
 #### 🔭 My most recent projects
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
@@ -18,8 +18,8 @@
 * [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
 * [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and  authentication.
 
-#### 🎓 I'm currently practicing 
-* 
+#### 🎓 I'm currently...
+* Volunteering for [1 Hour Life](https://www.1hour.org "1 Hour Life") as a WordPress developer & working with an amazing team at [Crown International](http://needmoremed.com/ "need more med") as a front-end developer in React. 
 
 #### ⚡ Fun fact: I'm Bilingual (English/Spanish). I was a teacher for 12 years! Recently moved to San Diego after 10 years living in Mexico. 
 #### Check my Stats!
