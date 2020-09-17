@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-#### I'm Lindy! I currently graduated from a fulltime Full-Stack Development Bootcamp from UCSD. I am passionate about discussing and creating new project ideas!
+#### I'm Lindy! I am an innovative full stack developer with a background in education and research. I am self-motivated with a willingness to learn and master front-end development best practices and devoted to building the connection between functionality and design. I am a recent graduate of UCSD’s Full Stack Development certification program.
 
 
 
@@ -16,7 +16,7 @@
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
 * [Bee's Imaging Group](http://beesimaginggroup.com/ "BIG") - Freelance Wordpress project for client in the medical field.
 * [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
-* [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and  authentication.
+* [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and authentication.
 
 #### 🎓 I'm currently...
 * Volunteering for [1 Hour Life](https://www.1hour.org "1 Hour Life") as a WordPress developer & working with an amazing team at [Crown International](http://needmoremed.com/ "need more med") as a front-end developer in React. 
