@@ -10,7 +10,7 @@
 
 
 
-#### 🌱 I’m currently expanding my knowledge on responsive web design, React.JS and using Adobe Creative Suite (XD, Photoshop and Illustrator).
+#### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator).
 
 #### 🔭 My most recent projects
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
