@@ -13,6 +13,7 @@
 #### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator).
 
 #### 🔭 My most recent projects
+* [Apple Store Clone](apple-store-clone-git-main.lindyem.vercel.app "Apple Store CLone") - ReactJs App with CSS animations and login system. 
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
 * [Bee's Imaging Group](http://beesimaginggroup.com/ "BIG") - Freelance Wordpress project for client in the medical field.
 * [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
