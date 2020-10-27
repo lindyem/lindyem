@@ -11,7 +11,7 @@
 
 
 #### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator) and working on the following project:
-*[Responsive Website Project](https://github.com/lindyem/responsiveWebsite/tree/master "Responsive Website") - Building a responsive website from scratch with HTML & SCSS. 
+* [Responsive Website Project](https://github.com/lindyem/responsiveWebsite/tree/master "Responsive Website") - Building a responsive website from scratch with HTML & SCSS. 
 
 #### 🔭 My most recent projects
 * [Apple Store Clone](apple-store-clone-git-main.lindyem.vercel.app "Apple Store CLone") - ReactJs App with CSS animations and login system. 
