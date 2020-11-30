@@ -21,7 +21,7 @@
 * [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and authentication.
 
 #### 🎓 I'm currently...
-* Volunteering for [1 Hour Life](https://www.1hour.org "1 Hour Life") as a WordPress developer & working with an amazing team at [Crown International](http://needmoremed.com/ "need more med") as a front-end developer in React. 
+* Working with an amazing team at [Crown International](http://needmoremed.com/ "need more med") as a front-end developer in React. 
 
 #### ⚡ Fun fact: I'm Bilingual (English/Spanish). I was a teacher for 12 years! Recently moved to San Diego after 10 years living in Mexico. 
 #### Check my Stats!
