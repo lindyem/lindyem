@@ -11,7 +11,7 @@
 
 
 #### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator) and working on the following project:
-  ## TBD! On to my next project! :) 
+  #### TBD! On to my next project! :) 
 
 #### 🔭 My most recent projects
 
