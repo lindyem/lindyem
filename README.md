@@ -11,11 +11,12 @@
 
 
 #### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator) and working on the following project:
-* [Responsive Website Project](https://github.com/lindyem/responsiveWebsite/tree/master "Responsive Website") - Building a responsive website from scratch with HTML & SCSS. 
+  ## TBD! On to my next project! :) 
 
 #### 🔭 My most recent projects
 
 * [Popular TV Show Database](https://skydropx-challenge.vercel.app/ "TV Show Database") - SAP React and Redux. 
+* [Responsive Website Project](https://github.com/lindyem/responsiveWebsite/tree/master "Responsive Website") - Building a responsive website from scratch with     HTML & SCSS. 
 * [Apple Store Clone](apple-store-clone-git-main.lindyem.vercel.app "Apple Store Clone") - ReactJs App with CSS animations and login system. 
 * [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio.    Created mockups in Adobe XD. 
 * [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and authentication.
