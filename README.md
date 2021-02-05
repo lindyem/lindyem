@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-#### I'm Lindy! I am an innovative front-end developer with a background in education and research. I am self-motivated with a willingness to learn and master front-end development best practices and devoted to building the connection between functionality and design. I am a recent graduate of UCSD’s Full Stack Development certification program.
+#### I'm Lindy! I am an innovative front-end developer with a background in education and research. My backgound in education proves me the ability to use my research and leadership skills to solve problems. I love learning front-end development best practices and am devoted to building the connection between functionality and design. Check out my work below! 
 
 
 
