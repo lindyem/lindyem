@@ -14,10 +14,10 @@
 * [Responsive Website Project](https://github.com/lindyem/responsiveWebsite/tree/master "Responsive Website") - Building a responsive website from scratch with HTML & SCSS. 
 
 #### 🔭 My most recent projects
-* [Apple Store Clone](apple-store-clone-git-main.lindyem.vercel.app "Apple Store CLone") - ReactJs App with CSS animations and login system. 
-* [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio. Created mockups in Adobe XD. 
-* [Bee's Imaging Group](http://beesimaginggroup.com/ "BIG") - Freelance Wordpress project for client in the medical field.
-* [Wedding Website](http://http://laurenmattwedding.com/ "Lauren/Matt") - First React website created for a friend's wedding.
+
+* [Popular TV Show Database](https://skydropx-challenge.vercel.app/ "TV Show Database") - SAP React and Redux. 
+* [Apple Store Clone](apple-store-clone-git-main.lindyem.vercel.app "Apple Store Clone") - ReactJs App with CSS animations and login system. 
+* [BOL$A](https://github.com/tober65/bolsa "Stock Portfolio") - Final Project for UCSD. A MERN React.js application for simulating a personal stock portfolio.    Created mockups in Adobe XD. 
 * [React Instagram Clone](https://instagram-clone-d1536.web.app/ "instagram clone") - React project that uses Firebase services for real-time database storage and authentication.
 
 #### 🎓 I'm currently...
