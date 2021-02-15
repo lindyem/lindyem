@@ -11,7 +11,8 @@
 
 
 #### 🌱 I’m currently expanding my knowledge on responsive web design, ReactJS and using Adobe Creative Cloud (XD, Photoshop and Illustrator) and working on the following project:
-  #### TBD! On to my next project! :) 
+
+ #### [Atlas VTO Goal Tracking App](https://www.figma.com/file/1pKzbA6GqJq0FDFHh3mErd/ATLAS?node-id=4%3A5979 "Figma") - Dsigned in Figma, Full Stack app using     NextJS and Firebase. 
 
 #### 🔭 My most recent projects
 
